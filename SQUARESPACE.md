@@ -2,6 +2,20 @@
 
 Canva website designs can't be imported straight into Squarespace. Use each Canva page as the blueprint and rebuild it with Squarespace sections. All the copy is in the Canva designs and in the HTML pages in this repo, so you can copy and paste it.
 
+## Canva page designs
+
+All seven are in the Canva folder [Katherine Lazo Website Revamp](https://www.canva.com/folder/FAHW4QjFhWU).
+
+| Page | Squarespace URL | Canva design |
+| --- | --- | --- |
+| Home | `/` | https://canva.link/1qwm6kaukjchk6d |
+| Weddings | `/weddings` | https://canva.link/ufioj2f7uio5jui |
+| Live Art | `/live-art` | https://canva.link/fj2wsil7oqgj173 |
+| Workshops | `/workshops` | https://canva.link/07xm8c8oo384qj6 |
+| Commissions & Design | `/commissions` | https://canva.link/ehszm0pip0452r7 |
+| About | `/about` | https://canva.link/poojjqez6p2aqz9 |
+| Book | `/book` | https://canva.link/dq6surp5qgrgnfm |
+
 ## 1. Set your site styles once (Site Styles → Fonts & Colors)
 
 | Use | Value |
